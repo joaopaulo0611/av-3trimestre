@@ -1,0 +1,4 @@
+/* configuração do tailwind (biblioteca para estilização) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
